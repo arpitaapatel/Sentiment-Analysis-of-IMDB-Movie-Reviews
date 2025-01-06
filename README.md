@@ -7,6 +7,6 @@ One prominent application of sentiment analysis is in customer feedback evaluati
 
 Positive Feedback: "This product is outstanding! I highly recommend it."<br>
 Negative Feedback: "Terrible quality. Completely disappointed."<br>
-Classifying such feedback helps organizations identify areas of strength and improvement.
+Classifying such feedback helps organizations identify areas of strength and improvement. 
 
 ![image](https://user-images.githubusercontent.com/32131585/209475505-f40ad65b-e659-40a4-92dd-5ee8aa76db4f.png)
