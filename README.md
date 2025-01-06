@@ -1,12 +1,12 @@
 # Sentiment-Analysis-of-IMDB-Movie-Reviews
 
-The process of computationally identifying and classifying opinions found in written content, specifically to determine whether the author has a positive or negative viewpoint on a certain subject, item, etc.
+Sentiment analysis involves the computational identification and classification of opinions expressed in text to determine whether the sentiment conveyed is positive, negative, or neutral. It utilizes techniques from Natural Language Processing (NLP) combined with deep learning to analyze and extract emotional tones and opinions effectively.
 
-The process of analysing a text to ascertain its sentiment is known as sentiment analysis. This is achieved by fusing deep learning with natural language processing (NLP).
+Example Use Case: Customer Feedback Analysis
+One prominent application of sentiment analysis is in customer feedback evaluation. By analyzing reviews or comments from platforms like Twitter, Facebook, or product review websites, businesses can determine how their customers feel about their products or services. For instance:
 
-Example
-You may use sentiment analysis to analyse client feedback. For instance, you can apply sentiment analysis algorithms to text snippets like these after gathering feedback from multiple sources like Twitter and Facebook to determine how your consumers feel about your product.
-
-We'll go over the processes of building a model that can do sentiment analysis on a large movie database since movie review analysis is a sort of customer feedback analysis in this context. The Internet Movie Database was used to compile the data (IMDb).
+Positive Feedback: "This product is outstanding! I highly recommend it."
+Negative Feedback: "Terrible quality. Completely disappointed."
+Classifying such feedback helps organizations identify areas of strength and improvement.
 
 ![image](https://user-images.githubusercontent.com/32131585/209475505-f40ad65b-e659-40a4-92dd-5ee8aa76db4f.png)
